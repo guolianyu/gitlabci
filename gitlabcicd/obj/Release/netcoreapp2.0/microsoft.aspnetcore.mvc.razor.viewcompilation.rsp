@@ -1,0 +1,5 @@
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=gitlabcicd
+--content-root=E:\ND-GLY\NETCore\testgitlab\gitlabcicd
+--file=

@@ -1,0 +1,11 @@
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\bin\Debug\netcoreapp2.0\gitlabcicd.deps.json
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\bin\Debug\netcoreapp2.0\gitlabcicd.runtimeconfig.json
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\bin\Debug\netcoreapp2.0\gitlabcicd.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\bin\Debug\netcoreapp2.0\gitlabcicd.dll
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\bin\Debug\netcoreapp2.0\gitlabcicd.pdb
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.csprojAssemblyReference.cache
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.AssemblyInfo.cs
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.dll
+E:\ND-GLY\NETCore\testgitlab\gitlabcicd\obj\Debug\netcoreapp2.0\gitlabcicd.pdb

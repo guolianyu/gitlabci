@@ -1,0 +1,22 @@
+variables:
+  GIT_STRATEGY: none
+stages:
+  - test
+test_job:
+  stage: test
+  only: 
+    - master
+  script:
+    - cd /home/gitproject
+    - rm -rf /home/gitproject/gitrunner
+    - git clone http://root:12345678@192.168.161.140/Team/gitrunner.git
+    - cd ./gitrunner
+    - dotnet build --configuration Release 
+    - rm -rf /home/project/gitrunner
+    - docker stop gitci
+    - docker rm gitci
+    - docker rmi gitciimages
+    - dotnet publish -c Release --output /home/project/gitrunner
+    - cd /home/project/gitrunner
+    - docker build -t gitciimages .
+    - docker run -d -v /home/project/gitrunner:/code -p 5001:80 --name gitci --restart always gitciimages
